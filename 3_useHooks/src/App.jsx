@@ -1,13 +1,18 @@
 import './App.css'
-import CustomHooks from './Topics/CustomHooks/CustomHooks'
-// import DifferentHooks from './Topics/DifferentHooks'
 
 function App() {
 
+  // const newRoutes = createBrowserRouter({
+  //   path : "/about",
+  //   c
+  // })
+
   return (
     <>
-      {/* <DifferentHooks /> */}
-      <CustomHooks />
+
+    
+
+      
     </>
   )
 }
